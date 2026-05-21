@@ -64,10 +64,10 @@
 
 ## 🏗️ Featured Projects
 
-### 💳 Expense Tracker (amertaka)
+### 💳 Expense Tracker (TakaSave)
 *   Real-time analytics and tracking system using Django.
 *   **Tech:** Django, Postgres, Async Signals.
-*   **Links:** [Live Demo](https://amertaka.vercel.app) | [GitHub Code](https://github.com/raihanstack/Django_Expense_Manage)
+*   **Links:** [Live Demo](https://takasave.vercel.app) | [GitHub Code](https://github.com/raihanstack/Django_Expense_Manage)
 
 ### 🛒 Scalable Django E-Commerce
 *   Full e-commerce backend with secure checkout and ORM filtering.
