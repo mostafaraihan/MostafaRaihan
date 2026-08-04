@@ -1,102 +1,137 @@
-# 🚀 Backend Developer | Mostafa Raihan (raihan-network)
-
 <p align="center">
-  <img src="https://github.com/raihan-network/raihan-network/blob/main/Cover.png" alt="Mostafa Raihan GitHub Cover Banner" width="100%" />
+  <h1>🌐 Networking Enthusiast | Mostafa Raihan</h1>
+  <h3><code>raihan-network</code></h3>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Django-Expert-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-Specialist-00ffc3?style=flat-square&logoColor=0b0e14" />
+  <img src="https://github.com/raihan-network/raihan-network/blob/main/Cover.png" width="100%" alt="Cover Banner">
 </p>
 
 <p align="center">
-  <b>I build fast, secure, and scalable backend systems.</b><br>
-  My main focus is <b>Python and Django</b> development.<br>
-  <i>"Backend is the heart of every application."</i>
+  <img src="https://img.shields.io/badge/Cisco-Enterprise_Networking-0496FF?style=for-the-badge&logo=cisco&logoColor=white">
+  <img src="https://img.shields.io/badge/MikroTik-RouterOS_v7-E53935?style=for-the-badge&logo=mikrotik&logoColor=white">
+  <img src="https://img.shields.io/badge/GPON-FTTH_Architecture-00A88F?style=for-the-badge&logo=broadcom&logoColor=white">
+  <img src="https://img.shields.io/badge/ISP-Core_Infrastructure-FF6F00?style=for-the-badge&logo=serverless&logoColor=white">
+  <img src="https://img.shields.io/badge/Network-Security_%26_Firewall-D32F2F?style=for-the-badge&logo=fortinet&logoColor=white">
 </p>
 
----
-
-## 💻 Backend Skills
-
-- 🐍 **Django Framework** – Building robust web applications, using Middleware, Signals, and ORM.
-- 🔗 **API Development** – Creating REST APIs with **Django REST Framework (DRF)**, including JWT authentication.
-- 🗄️ **Databases** – Working with **PostgreSQL**, **MySQL**, and **MongoDB** (Query optimization and design).
-- 🛡️ **Security** – Implementing Rate Limiting, CORS, and secure user authentication.
-- ⚙️ **AI Integration** – Image processing with **Python, Django, and OpenCV**.
-- 🚀 **Deployment** – Using GitHub Actions, Vercel, and Netlify for hosting.
-
----
-
-## 🛠️ Tech Stack
-
-### 🔥 Backend (Primary)
-<table align="center">
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=python" width="65"/><br><sub>Python</sub></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=django" width="65"/><br><sub>Django</sub></td>
-  <td align="center"><img src="https://hexmos.com/freedevtools/svg_icons/djangorest/djangorest-plain.svg" width="55" alt="DRF"/><br><sub>DRF</sub></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="65"/><br><sub>Postgres</sub></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="65"/><br><sub>MySQL</sub></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="65"/><br><sub>MongoDB</sub></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="65"/><br><sub>Postman</sub></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=git" width="65"/><br><sub>Git</sub></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=github" width="65"/><br><sub>GitHub</sub></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="65"/><br><sub>Vercel</sub></td>
-</tr>
-</table>
-
-### 🎨 Frontend (Secondary)
-<table align="center">
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=js" width="55"/><br><sub>JavaScript</sub></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=react" width="55"/><br><sub>React.js</sub></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br><sub>Next.js</sub></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br><sub>Tailwind</sub></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br><sub>Bootstrap</sub></td>
-</tr>
-</table>
-
----
-
-## 🏗️ Featured Projects
-
-### 💳 Expense Tracker (TakaSave)
-*   Real-time analytics and tracking system using Django.
-*   **Tech:** Django, Postgres, Async Signals.
-*   **Links:** [Live Demo](https://takasave.vercel.app) | [GitHub Code](https://github.com/raihan-network/Django_Expense_Manage)
-
-### 🛒 Scalable Django E-Commerce
-*   Full e-commerce backend with secure checkout and ORM filtering.
-*   **Tech:** Django, JWT Auth, Database Optimization.
-*   **Links:** [Live Demo](https://babyandfashion.vercel.app) | [GitHub Code](https://github.com/raihan-network/Django_Shop_783827)
-
-### 🖼️ AI Background Remover
-*   AI tool to remove image backgrounds automatically.
-*   **Tech:** Python, Django, OpenCV.
-*   **Links:** [Live Demo](https://rsbgeraser.vercel.app/) | [GitHub Code](https://github.com/raihan-network/Django_Bg_Remove_Project)
-
----
-
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=raihan-network&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+  <b>Architecting • Deploying • Securing High-Availability Network Infrastructures</b>
+  <br>
+  <i>"Engineered for Uptime, Performance, and Uncompromised Security."</i>
 </p>
 
 ---
 
-## 🔗 Connect With Me
+<h2 align="center">👨‍💻 Professional Profile</h2>
 
 <p align="center">
-  <a href="mailto:raihan.invite@gmail.com"><img src="https://img.icons8.com/color/64/gmail-new.png" width="50" alt="Email"/></a>
-  <a href="https://raihan-network.pages.dev"><img src="https://img.icons8.com/color/64/domain.png" width="50" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/raihan-network"><img src="https://img.icons8.com/color/64/linkedin.png" width="50" alt="LinkedIn"/></a>
-  <a href="https://github.com/raihan-network"><img src="https://img.icons8.com/color/64/github.png" width="50" alt="GitHub"/></a>
+  The network environments I have worked with include ISP infrastructure, GPON fiber deployments, and enterprise networks. Hands-on experience in configuring, maintaining, and troubleshooting network systems using Cisco and MikroTik technologies, focusing on scalable connectivity, efficient operations, and reliable service delivery.
 </p>
 
 ---
+
+<h2 align="center">🚀 Core Competencies & Ecosystem</h2>
+
 <p align="center">
-  <code>Status: Available for Backend Projects // Developer: @raihan-network</code>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cisco,linux,bash,py,ubuntu" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco_IOS%2FXE-0496FF?style=flat-square&logo=cisco&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/MikroTik_RouterOS-E53935?style=flat-square&logo=mikrotik&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/GPON_OLT_%2F_ONU-00A88F?style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Routing_%26_Switching-2E7D32?style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Network_Security-D32F2F?style=flat-square&logo=fortinet&logoColor=white">
+</p>
+
+---
+
+<h2 align="center">📊 Monitoring, NMS & Analysis Tools</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=grafana,prometheus,git,github,vscode" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/Zabbix_%2F_PRTG-Monitoring-D20211?style=flat-square&logo=zabbix&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/EVE--NG-Lab_Simulation-FF6F00?style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/GNS3-Network_Emulator-29B6F6?style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/PuTTY_%2F_SSH-CLI_Admin-414141?style=flat-square&logo=gnubash&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/Winbox-MikroTik_GUI-EE3124?style=flat-square&logo=mikrotik&logoColor=white">
+</p>
+
+---
+
+<h2 align="center">🌐 Protocols & Architecture</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IPv4_%2F_IPv6_Addressing-00599C?style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/VLAN_%26_Trunking_(802.1Q)-0277BD?style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/OSPFv2_%2F_OSPFv3-2E7D32?style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/BGP_Peering_%26_Transit-D84315?style=flat-square">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NAT_%2F_PAT-6A1B9A?style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/DHCP_Server_%2F_Relay-00838F?style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/PPPoE_Server_%2F_AAA-C62828?style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/IPsec_%2F_WireGuard_VPN-283593?style=flat-square">
+</p>
+
+---
+
+<h2 align="center">📡 GPON & FTTH Architecture</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GPON_Topology-FTTH_%2F_FTTB_%2F_FTTC-00A88F?style=for-the-badge&logo=broadcom&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OLT_Provisioning_%26_CLI-00838F?style=flat-square&logo=serverless&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/ONU_%2F_ONT_Auto--Registration-009688?style=flat-square&logo=wifi&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/Service_VLAN_%26_QInQ_Binding-0277BD?style=flat-square">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ODN_Design_(Splitters_%2F_Link_Budget)-2E7D32?style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/OTDR_Analysis_%26_Optical_Audit-E53935?style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/End--to--End_ISP_FTTH_Workflow-FF6F00?style=flat-square">
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Overview</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raihan-network&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+</p>
+
+---
+
+<h2 align="center">🔗 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/raihan-network">
+    <img src="https://img.icons8.com/color/96/github.png" width="45" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/raihan-network">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="45" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://raihan-network.pages.dev">
+    <img src="https://img.icons8.com/color/96/domain.png" width="45" alt="Website">
+  </a>
+</p>
+
+<p align="center">
+  <b>⚡ Open for Networking Opportunities & Technical Collaboration</b>
+  <br>
+  Mostafa Raihan | Networking Enthusiast
 </p>
