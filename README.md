@@ -1,6 +1,5 @@
 <p align="center">
-  <h1>🌐 Networking Enthusiast | Mostafa Raihan</h1>
-  <h3><code>raihan-network</code></h3>
+  <h1>Networking Enthusiast | Mostafa Raihan</h1>
 </p>
 
 <p align="center">
