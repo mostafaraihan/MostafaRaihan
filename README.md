@@ -30,7 +30,7 @@
 
 ---
 
-<h2 align="center">🚀 Core Competencies & Ecosystem</h2>
+<h2 align="center">🚀 Core Competencies</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
