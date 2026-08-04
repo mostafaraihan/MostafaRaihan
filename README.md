@@ -1,7 +1,7 @@
-# 🚀 Backend Developer | Mostafa Raihan (raihanstack)
+# 🚀 Backend Developer | Mostafa Raihan (raihan-network)
 
 <p align="center">
-  <img src="https://github.com/raihanstack/raihanstack/blob/main/Cover.png" alt="Mostafa Raihan GitHub Cover Banner" width="100%" />
+  <img src="https://github.com/raihan-network/raihan-network/blob/main/Cover.png" alt="Mostafa Raihan GitHub Cover Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -67,22 +67,22 @@
 ### 💳 Expense Tracker (TakaSave)
 *   Real-time analytics and tracking system using Django.
 *   **Tech:** Django, Postgres, Async Signals.
-*   **Links:** [Live Demo](https://takasave.vercel.app) | [GitHub Code](https://github.com/raihanstack/Django_Expense_Manage)
+*   **Links:** [Live Demo](https://takasave.vercel.app) | [GitHub Code](https://github.com/raihan-network/Django_Expense_Manage)
 
 ### 🛒 Scalable Django E-Commerce
 *   Full e-commerce backend with secure checkout and ORM filtering.
 *   **Tech:** Django, JWT Auth, Database Optimization.
-*   **Links:** [Live Demo](https://babyandfashion.vercel.app) | [GitHub Code](https://github.com/raihanstack/Django_Shop_783827)
+*   **Links:** [Live Demo](https://babyandfashion.vercel.app) | [GitHub Code](https://github.com/raihan-network/Django_Shop_783827)
 
 ### 🖼️ AI Background Remover
 *   AI tool to remove image backgrounds automatically.
 *   **Tech:** Python, Django, OpenCV.
-*   **Links:** [Live Demo](https://rsbgeraser.vercel.app/) | [GitHub Code](https://github.com/raihanstack/Django_Bg_Remove_Project)
+*   **Links:** [Live Demo](https://rsbgeraser.vercel.app/) | [GitHub Code](https://github.com/raihan-network/Django_Bg_Remove_Project)
 
 ---
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=raihanstack&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=raihan-network&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
 
 ---
@@ -91,12 +91,12 @@
 
 <p align="center">
   <a href="mailto:raihan.invite@gmail.com"><img src="https://img.icons8.com/color/64/gmail-new.png" width="50" alt="Email"/></a>
-  <a href="https://raihanstack.pages.dev"><img src="https://img.icons8.com/color/64/domain.png" width="50" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/raihanstack"><img src="https://img.icons8.com/color/64/linkedin.png" width="50" alt="LinkedIn"/></a>
-  <a href="https://github.com/raihanstack"><img src="https://img.icons8.com/color/64/github.png" width="50" alt="GitHub"/></a>
+  <a href="https://raihan-network.pages.dev"><img src="https://img.icons8.com/color/64/domain.png" width="50" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/raihan-network"><img src="https://img.icons8.com/color/64/linkedin.png" width="50" alt="LinkedIn"/></a>
+  <a href="https://github.com/raihan-network"><img src="https://img.icons8.com/color/64/github.png" width="50" alt="GitHub"/></a>
 </p>
 
 ---
 <p align="center">
-  <code>Status: Available for Backend Projects // Developer: @raihanstack</code>
+  <code>Status: Available for Backend Projects // Developer: @raihan-network</code>
 </p>
