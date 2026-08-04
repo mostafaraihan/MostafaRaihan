@@ -1,6 +1,5 @@
 <p align="center">
-  <h1>🌐 Networking Enthusiast | Mostafa Raihan</h1>
-  <h3><code>raihan-network</code></h3>
+  <h1>Networking Enthusiast | Mostafa Raihan</h1>
 </p>
 
 <p align="center">
@@ -31,7 +30,7 @@
 
 ---
 
-<h2 align="center">🚀 Core Competencies & Ecosystem</h2>
+<h2 align="center">🚀 Core Competencies</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
