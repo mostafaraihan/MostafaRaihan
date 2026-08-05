@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/raihan-network/raihan-network/blob/main/Cover.png" width="100%" alt="Cover Banner">
+  <img src="https://github.com/networkingwithraihan/networkingwithraihan/blob/main/Cover.png" width="100%" alt="Cover Banner">
 </p>
 
 <p align="center">
@@ -108,7 +108,7 @@
 <h2 align="center">📊 GitHub Overview</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raihan-network&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=networkingwithraihan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 </p>
 
 ---
@@ -116,15 +116,15 @@
 <h2 align="center">🔗 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/raihan-network">
+  <a href="https://github.com/networkingwithraihan">
     <img src="https://img.icons8.com/color/96/github.png" width="45" alt="GitHub">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/raihan-network">
+  <a href="https://www.linkedin.com/in/networkingwithraihan">
     <img src="https://img.icons8.com/color/96/linkedin.png" width="45" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://raihan-network.pages.dev">
+  <a href="https://networkingwithraihan.pages.dev">
     <img src="https://img.icons8.com/color/96/domain.png" width="45" alt="Website">
   </a>
 </p>
