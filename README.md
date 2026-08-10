@@ -1,11 +1,9 @@
 <p align="center">
-  <h1>Networking Enthusiast | Mostafa Raihan</h1>
-</p>
-
-<p align="center">
   <img src="https://github.com/networkingwithraihan/networkingwithraihan/blob/main/Cover.png" width="100%" alt="Cover Banner">
 </p>
-
+<p align="center">
+MD. Mostafa Raihan | Networking Enthusiast
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-Enterprise_Networking-0496FF?style=for-the-badge&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/MikroTik-RouterOS_v7-E53935?style=for-the-badge&logo=mikrotik&logoColor=white">
