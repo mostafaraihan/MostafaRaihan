@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/m-mostafaraihan/m-mostafaraihan/blob/main/Cover.png" width="100%" alt="Cover Banner">
+  <img src="https://github.com/md-mostafaraihan/md-mostafaraihan/blob/main/Cover.png" width="100%" alt="Cover Banner">
 </p>
 <p align="center">
-MD. Mostafa Raihan | Network & Support Specialist
+Md. Mostafa Raihan | Network & Support Specialist
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-Enterprise_Networking-0496FF?style=for-the-badge&logo=cisco&logoColor=white">
@@ -106,7 +106,7 @@ MD. Mostafa Raihan | Network & Support Specialist
 <h2 align="center">📊 GitHub Overview</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-mostafaraihan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-mostafaraihan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 </p>
 
 ---
@@ -114,11 +114,11 @@ MD. Mostafa Raihan | Network & Support Specialist
 <h2 align="center">🔗 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/m-mostafaraihan">
+  <a href="https://github.com/md-mostafaraihan">
     <img src="https://img.icons8.com/color/96/github.png" width="45" alt="GitHub">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/m-mostafaraihan">
+  <a href="https://www.linkedin.com/in/md-mostafaraihan">
     <img src="https://img.icons8.com/color/96/linkedin.png" width="45" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
